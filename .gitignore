@@ -1,0 +1,4 @@
+__pycache__/
+.ipynb_checkpoints/
+fit_files/*
+!fit_files/2024-02-25.fit
